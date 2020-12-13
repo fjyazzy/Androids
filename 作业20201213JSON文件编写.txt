@@ -1,0 +1,24 @@
+1、阅读课本P118页，关于JSON解析的基本知识。   
+2、阅读https://www.w3cschool.cn/java/java-json-syntax.html
+3. 参照案例:
+
+{
+  "books": [
+   { "language":"Java" , "edition":"second" },
+   { "language":"C++" , "edition":"fifth" },
+   { "language":"C" , "edition":"third" }
+  ]
+}
+
+
+使用文本编辑工具将下面的两个数组：   
+Applist
+names = {"京东商城", "QQ", "QQ斗地主", "新浪微博", "天猫", "UC浏览器", "微信","通讯录"};
+icons = {"jd","qq", "dz","xl", "tm", "uc","wx","txl"};  
+
+修改为一个JSON格式文件，保存的文件名为applistinfo.json。  
+
+4. 通过网址：
+         https://www.json.cn/
+   检测编辑的文件是否正确。
+
